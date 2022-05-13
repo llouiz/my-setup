@@ -8,7 +8,7 @@
 
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-- <img src="https://draculatheme.com/static/icons/pack-1/045-dracula.svg" height="30px" width="30px">
+- <img src="https://draculatheme.com/static/icons/used/pack-1/045-dracula.svg" height="30px" width="30px">
 
   - [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 
