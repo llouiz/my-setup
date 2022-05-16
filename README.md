@@ -20,6 +20,10 @@
 
   - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
+- <img src="https://wix.gallerycdn.vsassets.io/extensions/wix/vscode-import-cost/3.3.0/1649579526643/Microsoft.VisualStudio.Services.Icons.Default" height="30px" width="30px">
+
+  - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+
 ## Softwares
 - <img src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" height="30px" width="30px">
 
