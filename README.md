@@ -27,6 +27,10 @@
 - <img src="https://github.gallerycdn.vsassets.io/extensions/github/copilot/1.27.6094/1654591759272/Microsoft.VisualStudio.Services.Icons.Default" height="20px" width="20px">
 
   - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+  
+  - <img src="https://vivaxy.gallerycdn.vsassets.io/extensions/vivaxy/vscode-conventional-commits/1.24.2/1661220436120/Microsoft.VisualStudio.Services.Icons.Default" height="20px" width="20px">
+
+  - [Conventional Commits](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits)
 
 ## Softwares
 - <img src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" height="30px" width="30px">
