@@ -31,6 +31,10 @@
 - <img src="https://vivaxy.gallerycdn.vsassets.io/extensions/vivaxy/vscode-conventional-commits/1.24.2/1661220436120/Microsoft.VisualStudio.Services.Icons.Default" height="20px" width="20px">
  
   - [Conventional Commits](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits)
+ 
+- <img src="https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/2.3.0/1672941460424/Microsoft.VisualStudio.Services.Icons.Default" height="20px" width="20px">
+ 
+  - [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 
 ## Softwares
 - <img src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" height="30px" width="30px">
