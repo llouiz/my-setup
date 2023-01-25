@@ -41,9 +41,5 @@
 
   - [Git](https://git-scm.com/)
 
-- <img src="https://cdn.auth0.com/blog/build-a-secure-express-api-using-postman-and-auth0/postman-logo.png" height="30px" width="30px">
-
-  - [Postman](https://www.postman.com/)
-
 ## Settings
 **:gear: [settings.json](settings.json)**
