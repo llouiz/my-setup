@@ -36,6 +36,10 @@
  
   - [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 
+- <img src="https://streetsidesoftware.gallerycdn.vsassets.io/extensions/streetsidesoftware/code-spell-checker/2.16.0/1675324749221/Microsoft.VisualStudio.Services.Icons.Default" height="20px" width="20px">
+ 
+  - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+
 ## Softwares
 - <img src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" height="30px" width="30px">
 
