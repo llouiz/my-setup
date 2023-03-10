@@ -40,7 +40,7 @@
  
   - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
   
- - <img src="https://donjayamanne.gallerycdn.vsassets.io/extensions/donjayamanne/githistory/0.6.20/1678008598739/Microsoft.VisualStudio.Services.Icons.Default" height="20px" width="20px">
+- <img src="https://donjayamanne.gallerycdn.vsassets.io/extensions/donjayamanne/githistory/0.6.20/1678008598739/Microsoft.VisualStudio.Services.Icons.Default" height="20px" width="20px">
  
   - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 
