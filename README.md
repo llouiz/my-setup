@@ -43,6 +43,10 @@
 - <img src="https://donjayamanne.gallerycdn.vsassets.io/extensions/donjayamanne/githistory/0.6.20/1678008598739/Microsoft.VisualStudio.Services.Icons.Default" height="20px" width="20px">
  
   - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+  
+- <img src="https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/2023.3.1104/1678525825830/Microsoft.VisualStudio.Services.Icons.Default" height="20px" width="20px">
+ 
+  - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 ## Softwares
 - <img src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" height="30px" width="30px">
