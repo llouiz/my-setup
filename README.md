@@ -47,6 +47,10 @@
 - <img src="https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/2023.3.1104/1678525825830/Microsoft.VisualStudio.Services.Icons.Default" height="20px" width="20px">
  
   - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+  
+- <img src="https://redhat.gallerycdn.vsassets.io/extensions/redhat/vscode-yaml/1.12.1/1678274282333/Microsoft.VisualStudio.Services.Icons.Default" height="20px" width="20px">
+ 
+  - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 
 ## Softwares
 - <img src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" height="30px" width="30px">
