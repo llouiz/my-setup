@@ -51,6 +51,10 @@
 - <img src="https://redhat.gallerycdn.vsassets.io/extensions/redhat/vscode-yaml/1.12.1/1678274282333/Microsoft.VisualStudio.Services.Icons.Default" height="20px" width="20px">
  
   - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+  
+  - <img src="https://cdn.vsassets.io/v/M218_20230313.7/_content/Header/default_icon_128.png" height="20px" width="20px">
+ 
+  - [CodeWall](https://marketplace.visualstudio.com/items?itemName=abhinavk99.codewall)
 
 ## Softwares
 - <img src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" height="30px" width="30px">
