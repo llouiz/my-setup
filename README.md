@@ -54,6 +54,10 @@
   
 - <img src="https://cdn.vsassets.io/v/M218_20230313.7/_content/Header/default_icon_128.png" height="20px" width="20px">
  
+  - [CodeWall](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+  
+- <img src="https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/2.4.1/1683874250603/Microsoft.VisualStudio.Services.Icons.Default" height="20px" width="20px">
+ 
   - [CodeWall](https://marketplace.visualstudio.com/items?itemName=abhinavk99.codewall)
 
 ## Softwares
