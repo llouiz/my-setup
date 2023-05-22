@@ -58,7 +58,7 @@
   
 - <img src="https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/2.4.1/1683874250603/Microsoft.VisualStudio.Services.Icons.Default" height="20px" width="20px">
  
-  - [CodeWall](https://marketplace.visualstudio.com/items?itemName=abhinavk99.codewall)
+  - [ESLint](https://marketplace.visualstudio.com/items?itemName=abhinavk99.codewall)
 
 ## Softwares
 - <img src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" height="30px" width="30px">
