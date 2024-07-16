@@ -4,7 +4,7 @@
     "workbench.iconTheme": "material-icon-theme",
     "editor.renderLineHighlight": "gutter",
     "editor.formatOnSave": true,
-    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
     "workbench.startupEditor": "newUntitledFile",
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "prettier.singleQuote": true,
